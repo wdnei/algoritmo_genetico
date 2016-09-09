@@ -1,0 +1,9 @@
+function [ output_args ] = showResult( funcaoProblema,intervalo,p )
+%SHOWRESULT Summary of this function goes here
+%   Detailed explanation goes here
+
+
+sym
+
+end
+
